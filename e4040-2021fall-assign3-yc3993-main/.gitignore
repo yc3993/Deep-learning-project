@@ -1,0 +1,5 @@
+MNIST_data/*
+.ipynb_checkpoints/
+Flickr_Data/*
+Flickr_Data.zip
+encoded_images
